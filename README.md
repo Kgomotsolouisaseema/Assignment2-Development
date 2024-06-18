@@ -12,20 +12,28 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   'Screenshot attached : windows version 10.png: '
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+   Screenshot attached : visualtudiocode.png
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   first project done : ()
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+  Screnshots available: python and pip install.png
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
+   screenshot done: pytohn and pip install.png
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+   screenshot added: MySQL.PNG
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -33,8 +41,18 @@ This assignment aims to familiarize you with the tools and configurations necess
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
+
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+    - i followed the video from class and where i found difficulty i asked chatgpt.
+
+10. **REFLECTION **
+The setting process was reletively easy to understan , the SQL video in particular , dart and flutter follows the same process of downloading the sdk fil and extracting , the placing the sdk in the drive(C: OR D:/ )where your OS is located , navigating into the sdk file and accessing the bin path, opening your env(enviroment variables )and the edit PATHS ,creating a new path and pasting the sdks path to the env. 
+after the path, opening git bash in admin and the checking the version of the downloaded package(python --version , dart --version , flutter --version ), also navigating to the mySQL command line client and checking if the package is correctly installed . 
+
+i loved the process and cannot wait to learn more . 
+Django has been trying my patience but that will also be quickly attended to , chatGPT is very helpfull when the teachers are very fast an i cannpt keep up but sometimes its repeatative and does not answer the questions directly. 
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
@@ -49,7 +67,7 @@ Submit your document and GitHub repository link through the designated platform 
 - Effectiveness of version control implementation.
 - Appropriateness of tools selected for the project requirements.
 - Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
+- Adherence to submission guidelines and deadlines
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
-ewfwgjerhfhwwewkrfhwkjerfwnfjnf
+
